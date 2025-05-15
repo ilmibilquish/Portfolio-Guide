@@ -8,8 +8,7 @@ Welcome to the summary of my Data Analytisc Projects!
 - [Python Challenge and Exercise](#python-challenge-and-exercise)
 - [PowerBI Projects](#powerbi-projects)
 - [Tableau Projects](#tableau-projects)
-- [Excel Projects](#excel-projects)
-
+- [Excel Through Data Analytics](#excel-through-data-analytics)
 
 
 # SQL for Data Analysis
@@ -44,9 +43,9 @@ Welcome to the summary of my Data Analytisc Projects!
 
 ***
 
-# Excel Projects
+# Excel Through Data Analytics
 
 | Project | Project Description |
 |---|---|
-| 🎥 [StreamFlix]() | Created an interactive Excel dashboard using PivotTables, slicers, and charts to visualize watch time by genre, revenue by subscription type, and user engagement by country. Focused on interactivity and clear data formatting to support actionable business insights. |
-| 🏢 [GenTech]() | Cleaned and transformed employee data, utilized lookup and conditional functions, and summarized key metrics by department. Developed a professional dashboard to analyze salary distribution, training patterns, and performance ratings. |
+| 🎥 [StreamFlix](https://github.com/ilmibilquish/Excel-Through-Data-Analytics/blob/main/StreamFlix%20Dashboard.md) | Created an interactive Excel dashboard using PivotTables, slicers, and charts to visualize watch time by genre, revenue by subscription type, and user engagement by country. Focused on interactivity and clear data formatting to support actionable business insights. |
+| 🏢 [GenTech](https://github.com/ilmibilquish/Excel-Through-Data-Analytics/blob/main/GenTech.md) | Cleaned and transformed employee data, utilized lookup and conditional functions, and summarized key metrics by department. Developed a professional dashboard to analyze salary distribution, training patterns, and performance ratings. |
