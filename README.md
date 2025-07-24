@@ -6,10 +6,20 @@ Welcome to the summary of my Data Analytisc Projects!
 - [SQL for Data Analysis](#sql-for-data-analysis)
 - [Python for Data Analysis](#python-for-data-analysis)
 - [Python Challenge and Exercise](#python-challenge-and-exercise)
-- [PowerBI Projects](#powerbi-projects)
+- [Power BI Projects](#power-bi-projects)
 - [Tableau Projects](#tableau-projects)
 - [Excel Through Data Analytics](#excel-through-data-analytics)
 
+# Power BI Projects
+
+| Project | Project Description |
+|---|---|
+| 🛫 [Tourism Performance Report](https://github.com/ilmibilquish/Power-BI-Projects/blob/main/Tourism-Performance-Report.md) | This Power BI dashboard offers a well-rounded narrative of tourism performance—starting with macro indicators and narrowing down to regional and temporal patterns. Each visual contributes a piece to the overall story, enabling stakeholders to make data-driven decisions around marketing, resource allocation, and operational strategy. The dynamic layout and interactivity make it an effective tool for both strategic reviews and day-to-day performance monitoring. |
+| 🍬 [Yummy Sweets Sales Analysis](https://github.com/ilmibilquish/Power-BI-Projects/blob/main/Yummy-Sweets-Sales-Analysis.md) | This sales analysis dashboard provides a detailed overview of Yummy Sweets’ performance from January 2021 to January 2022. It highlights key trends in sales, revenue by product category, type, and size, and evaluates the performance of each sales team across different regions. The dashboard offers actionable insights into customer engagement and team productivity, helping to identify top-performing products and markets. These insights are valuable for making informed decisions on inventory management, sales strategy, and supporting underperforming teams to drive overall business growth. |
+| 🌊 [Water Quality Analysis]() | This project conducted a structured data cleaning and preprocessing process to prepare a water quality dataset for accurate analysis. The workflow prioritized resolving missing values first, followed by the detection and correction of outliers. This was achieved using a combination of Power BI's Power Query and Python scripting, resulting in a fully updated and merged dataset for downstream insights. |
+| 📋 [Ace Digital Employment Training Report]() | Ace Digital Employment Training Report Dashboard provides interactive insights into five years of employee training records. It highlights the distribution of training across time, departments, and locations, evaluates the impact on employee engagement and performance, and reveals training preferences based on employee ratings. The dashboard integrates ArcGIS to map training distribution geographically, helping identify regions with higher or lower training access. This tool supports data-driven decisions to enhance workforce development and training effectiveness. |
+
+***
 
 # SQL for Data Analysis
 
