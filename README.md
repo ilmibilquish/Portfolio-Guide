@@ -3,10 +3,10 @@
 Welcome to the summary of my Data Analytisc Projects!
 
 ## 📚 Table of Contents
+- [Power BI Projects](#power-bi-projects)
 - [SQL for Data Analysis](#sql-for-data-analysis)
 - [Python for Data Analysis](#python-for-data-analysis)
 - [Python Challenge and Exercise](#python-challenge-and-exercise)
-- [Power BI Projects](#power-bi-projects)
 - [Tableau Projects](#tableau-projects)
 - [Excel Through Data Analytics](#excel-through-data-analytics)
 
@@ -25,9 +25,9 @@ Welcome to the summary of my Data Analytisc Projects!
 
 | Project | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🥇 [Applying Fundamental SQL Concepts]() | April 2025 | SQL Server Management Studio (SSMS) | This project demonstrates my understanding of foundational SQL techniques used for retrieving and exploring data. It includes writing queries using SELECT * FROM, applying filters with WHERE, sorting results with ORDER BY, and using basic aliases. These core skills are essential for navigating and querying structured databases effectively.|
+| 🥉 [Applying Fundamental SQL Concepts]() | April 2025 | SQL Server Management Studio (SSMS) | This project demonstrates my understanding of foundational SQL techniques used for retrieving and exploring data. It includes writing queries using SELECT * FROM, applying filters with WHERE, sorting results with ORDER BY, and using basic aliases. These core skills are essential for navigating and querying structured databases effectively.|
 | 🥈 [Applying Intermediate SQL Concepts]() | April 2025 | SQL Server Management Studio (SSMS) | This project demonstrates the use of intermediate SQL techniques for analytical and data preparation tasks. It includes data aggregation using GROUP BY with functions like SUM(), AVG(), and COUNT(), combining tables with different types of JOINs, filtering aggregated results using HAVING, and applying conditional logic through CASE and nested CASE statements. It also covers data cleaning and preparation, such as handling NULL values, transforming data formats, and working with various data types to ensure consistency and accuracy.|
-| 🥉 [Applying Advanced SQL Concepts]() | April 2025 | SQL Server Management Studio (SSMS) | This part highlights more complex querying strategies. I worked with subqueries and correlated subqueries to extract data based on multi-step logic, used EXISTS for conditional filtering, and integrated Python's pytest to validate SQL outputs. These advanced techniques are useful for dynamic data extraction, deeper analysis, and integrating SQL within broader data workflows.|
+| 🥇 [Applying Advanced SQL Concepts]() | April 2025 | SQL Server Management Studio (SSMS) | This part highlights more complex querying strategies. I worked with subqueries and correlated subqueries to extract data based on multi-step logic, used EXISTS for conditional filtering, and integrated Python's pytest to validate SQL outputs. These advanced techniques are useful for dynamic data extraction, deeper analysis, and integrating SQL within broader data workflows.|
 
 ***
 
